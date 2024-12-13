@@ -146,6 +146,24 @@
   </url>
   
   <url>
+    <loc>https://maodoo.top/link/index.html</loc>
+    
+    <lastmod>2024-12-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://maodoo.top/categories/index.html</loc>
+    
+    <lastmod>2024-12-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://maodoo.top/tags/index.html</loc>
     
     <lastmod>2024-12-10</lastmod>
@@ -165,24 +183,6 @@
   
   <url>
     <loc>https://maodoo.top/2024/12/08/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E8%83%8C%E6%99%AF%E4%B8%80%E5%9B%BE%E6%B5%81/</loc>
-    
-    <lastmod>2024-12-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://maodoo.top/link/index.html</loc>
-    
-    <lastmod>2024-12-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://maodoo.top/categories/index.html</loc>
     
     <lastmod>2024-12-08</lastmod>
     
